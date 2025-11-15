@@ -1,0 +1,3 @@
+module AsciiArt;
+
+AsciiArt::~AsciiArt() {}
